@@ -4,26 +4,26 @@ A minimalist, open-source CLI launcher for Windows (and soon Linux!) that lets y
 
 ---
 
-#Why Urun-launcher?
+## ✨ Why Urun-launcher?
 
 Are you tired of cluttered desktops, slow-loading game launchers, or constantly navigating through folders to find that one specific file or application? Urun-launcher is designed to solve exactly that.
 
 It provides a blazing-fast, command-line interface to access everything you need. It gets out of your way and dedicates your system's resources to what truly matters – your applications and games.
 
-#Features
+## 🚀 Features
 
-* Instant Launching: Define simple, memorable aliases for any application (`.exe`), game, document (PDFs, Word docs), media file, or even specific folders. Just type `urun <alias>` and hit Enter!
-* Feather-light: Urun-launcher is incredibly resource-efficient, consuming only ~24MB RAM during its brief execution and then exiting completely, ensuring zero ongoing overhead.
-* Universal Compatibility: Launch virtually anything on your system, regardless of its type or location.
-* User-Friendly Setup: Includes an automated Windows PATH integration command (`urun setpath`) for hassle-free installation and instant access from `Win + R` or any terminal.
-* Customizable: All aliases are managed via a straightforward configuration file, allowing for easy viewing and direct editing for advanced users.
-* Open Source: Built with transparency in mind, inviting community feedback and contributions.
+* **Instant Launching:** Define simple, memorable aliases for any application (`.exe`), game, document (PDFs, Word docs), media file, or even specific folders. Just type `urun <alias>` and hit Enter!
+* **Feather-light:** Urun-launcher is incredibly resource-efficient, consuming only ~24MB RAM during its brief execution and then exiting completely, ensuring zero ongoing overhead.
+* **Universal Compatibility:** Launch virtually anything on your system, regardless of its type or location.
+* **User-Friendly Setup:** Includes an automated Windows PATH integration command (`urun setpath`) for hassle-free installation and instant access from `Win + R` or any terminal.
+* **Customizable:** All aliases are managed via a straightforward configuration file, allowing for easy viewing and direct editing for advanced users.
+* **Open Source:** Built with transparency in mind, inviting community feedback and contributions.
 
-#Installation (Windows)
+## 📦 Installation (Windows)
 
 Urun-launcher is designed for a quick and easy setup.
 
-## For End-Users (Recommended - using pre-built executable)
+### For End-Users (Recommended - using pre-built executable)
 
 1.  **Download Urun:** Download the latest `urun.exe` file from the [Releases page](https://github.com/DOMGADH/Urun-launcher/releases).
 2.  **Place Urun.exe:** Create a new folder on your system (e.g., `C:\Urun`) and place the downloaded `urun.exe` inside it.
@@ -46,9 +46,8 @@ Urun-launcher is designed for a quick and easy setup.
     * `pip` (usually comes with Python)
 2.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/DOMGADH/Urun-launcher.git](https://github.com/YOUR_GITHUB_USERNAME/Urun-launcher.git)
+    git clone [https://github.com/DOMGADH/Urun-launcher.git](https://github.com/DOMGADH/Urun-launcher.git)
     ```
-    
 3.  **Navigate to Directory:**
     ```bash
     cd Urun-launcher
@@ -183,4 +182,5 @@ If you have a suggestion that would make Urun better, please fork the repo and c
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
------
+```
+```
